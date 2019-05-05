@@ -77,7 +77,7 @@ obvious to me that it should be used for this little project.</p>
   <img width="280" height="267" src="https://raw.githubusercontent.com/rkruk/lili-the-vil/master/img/10.png">
 </p>
 <br><br>
-<p>But on the outside the exterior looks... oh boy... oh boy... damn good.</p>
+<p>But outside the skull looks... oh boy... oh boy... damn good.</p>
 <br>
 <p align="center">
   <img width="374" height="475" src="https://raw.githubusercontent.com/rkruk/lili-the-vil/master/img/15.png">
