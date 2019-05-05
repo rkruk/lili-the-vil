@@ -69,3 +69,16 @@ obvious to me that it should be used for this little project.</p>
   <img width="250" height="325" src="https://raw.githubusercontent.com/rkruk/lili-the-vil/master/img/12.png">
 </p>
 <br>
+<br>
+<p>At that picture above you can see finished exterior. I tried to make it as a little 'cyberpunky' terminator look.</p>
+<br>
+<p>Inside doesn't look so good as outside though...</p>
+<p align="center">
+  <img width="280" height="267" src="https://raw.githubusercontent.com/rkruk/lili-the-vil/master/img/10.png">
+</p>
+<br><br>
+<p>But on the outside the exterior looks...oh boy...oh boy... damn good.</p>
+<br>
+<p align="center">
+  <img width="374" height="475" src="https://raw.githubusercontent.com/rkruk/lili-the-vil/master/img/15.png">
+</p>
