@@ -22,3 +22,50 @@ obvious to me that it should be used for this little project.</p>
 <p align="center">
   <img width="278" height="408" src="https://raw.githubusercontent.com/rkruk/lili-the-vil/master/img/4.png">
 </p>
+<br>
+<br>
+<p>The speaker placement was a bit tricky, as I wanted it to be at the bottom of the skull. I decided against the idea to exchange it with a smaller speaker, and I went ahead with second best place for the speaker...TOP od the skull.</p>
+<br>
+<p align="center">
+  <img width="416" height="411" src="https://raw.githubusercontent.com/rkruk/lili-the-vil/master/img/5.png">
+</p>
+<br>
+<p align="center">
+  <img width="472" height="657" src="https://raw.githubusercontent.com/rkruk/lili-the-vil/master/img/6.png">
+</p>
+<br>
+<p align="center">
+  <img width="542" height="400" src="https://raw.githubusercontent.com/rkruk/lili-the-vil/master/img/7.png">
+</p>
+<br>
+<br>
+<p>The dual mic board went behind forehead and I think it looks quite good there.</p>
+<br>
+<p align="center">
+  <img width="224" height="442" src="https://raw.githubusercontent.com/rkruk/lili-the-vil/master/img/8.png">
+</p>
+<br>
+<p align="center">
+  <img width="412" height="324" src="https://raw.githubusercontent.com/rkruk/lili-the-vil/master/img/9.png">
+</p>
+<br><br>
+<p>The Raspberry Pi with Voice Hardware Accessory on Top before plugit it in with the connectors inside of the skull.</p>
+<br>
+<p align="center">
+  <img width="516" height="350" src="https://raw.githubusercontent.com/rkruk/lili-the-vil/master/img/14.png">
+</p>
+<br><br>
+<p>Another eye socket became a status light indicator. All those small flashing lights built into Rapberry Pi board were extended to eye socket with a help of small fiber connectors.</p>
+<br>
+<p align="center">
+  <img width="427" height="350" src="https://raw.githubusercontent.com/rkruk/lili-the-vil/master/img/13.png">
+</p>
+<br>
+<p align="center">
+  <img width="600" height="338" src="https://raw.githubusercontent.com/rkruk/lili-the-vil/master/img/16.gif">
+</p>
+<br>
+<p align="center">
+  <img width="250" height="325" src="https://raw.githubusercontent.com/rkruk/lili-the-vil/master/img/12.png">
+</p>
+<br>
