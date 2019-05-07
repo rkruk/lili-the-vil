@@ -3,7 +3,7 @@
 It is mostly based on Google Voice Recognition Addon to Raspberry Pi https://aiyprojects.withgoogle.com/voice/.</p>
 <br><br>
 <p align="center">
-  <img src="https://github.com/rkruk/funpi/blob/master/img/17.gif?raw=true">
+  <img src="https://raw.githubusercontent.com/rkruk/lili-the-vil/master/img/header.png">
 </p>
 <br><br>
 <p><b>At this moment this project is stale</b> as I'm trying to figure it out how to randomise and anonymise requests sended to google servers from this little device.</p><br>
