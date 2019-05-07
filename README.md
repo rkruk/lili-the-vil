@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rkruk/lili-the-vil/master/img/header.png">
+  <img src="https://github.com/rkruk/funpi/blob/master/img/17.gif?raw=true">
 </p>
 <p align="center"><b> LILI THE VIL </b></p>
 <p>Lili The Vil is a mini Voice Recognition project I'm working on when I have a spare time (which means RARELY).<br>
