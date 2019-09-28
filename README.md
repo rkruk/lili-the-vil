@@ -116,10 +116,6 @@ Skull is almost ready but it looks dull somehow. With cyber-punk aesthetic in mi
   <img width="50%" height="50%" src="https://github.com/rkruk/lili-the-vil/blob/master/img/11.png">
 </p>
 <br><br>
-<p align="center">
-  <img width="50%" height="50%" src="https://github.com/rkruk/lili-the-vil/blob/master/img/15.png">
-</p>
-<br><br>
 And The final look:<br><br>
 <p align="center">
   <img width="50%" height="50%" src="https://github.com/rkruk/lili-the-vil/blob/master/img/12.png">
